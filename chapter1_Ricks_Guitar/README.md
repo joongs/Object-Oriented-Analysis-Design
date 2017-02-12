@@ -1,2 +1,2 @@
-# Object-Oriented-Analysis-Design
-세상을 설계하는 객체지향 방법론
+# chapter 1 Ricks Guitar
+릭의 기타 예제
